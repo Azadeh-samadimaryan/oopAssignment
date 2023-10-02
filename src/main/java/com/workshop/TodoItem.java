@@ -1,3 +1,4 @@
+
 package com.workshop;
 
 public class TodoItem {
@@ -5,10 +6,9 @@ public class TodoItem {
     private boolean assigned;
     private Person assignee;
 
-    public int TodoItem(int id, boolean assigned, Person assignee ){
-        public int getId() {
-            return int id;
-        }
+    public int TodoItem(int id, boolean assigned, Person assignee ) {
+        return 0;
+    }
 
 
 }
